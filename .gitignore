@@ -72,3 +72,7 @@ crashlytics-build.properties
 Shiba-Jump/Library/Artifacts
 Shiba-Jump/Library
 Shiba-Jump/Logs
+Shiba-Jump/Library/
+
+.vscode/
+.DS_Store
